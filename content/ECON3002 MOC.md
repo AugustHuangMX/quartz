@@ -33,8 +33,21 @@ Cumulative distribution function
 
 Uniform distribution have no modes
 
+##   Expected value and variance of a linear function
 
+The basic knowledge: [[Variance]]
 
+Prove: if $Y=a+bX$ then $Var(Y)=b^2Var(X)$ , why?
+
+Since $Var(X)= E[(x-E(X))^2]$  so that $Var(Y)=E(a+bx-E(a+bx))^2$
+
+$Var(Y)=E[(b(x-\overline x))^2]$ (the right part is the $Var(X)$)
+
+So $Var(Y)=b^2Var(X)$
+
+## [[Standard Deviation]]
+
+The [[Standard Deviation]] of $X$ is denoted as $\sigma _X$, also the $\sqrt {Var(X)}$ 
 
 
 
