@@ -9,9 +9,9 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    baseUrl: "augusthuangmx.github.io/quartz",
+    baseUrl: "https://augusthuangmx.github.io/quartz",
     ignorePatterns: ["private", "templates"],
-    theme: {npx quartz sync
+    theme: {
       typography: {
         header: "Schibsted Grotesk",
         body: "Source Sans Pro",
