@@ -11,7 +11,7 @@ const config: QuartzConfig = {
     },
     baseUrl: "augusthuangmx.github.io/quartz",
     ignorePatterns: ["private", "templates"],
-    theme: {
+    theme: {npx quartz sync
       typography: {
         header: "Schibsted Grotesk",
         body: "Source Sans Pro",
