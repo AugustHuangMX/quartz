@@ -2,6 +2,7 @@
 title: "Solow Model"
 ---
 
+
 #macro 
 
 # Tell It by Myself...
