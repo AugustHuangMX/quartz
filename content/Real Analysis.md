@@ -1,7 +1,5 @@
 ---
 title: "Real Analysis"
-tags:
-- 
 ---
 
 #MOC 
