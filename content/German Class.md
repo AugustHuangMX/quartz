@@ -1,7 +1,5 @@
 ---
 title: "German Class"
-tags:
-- 
 ---
 
 #German
