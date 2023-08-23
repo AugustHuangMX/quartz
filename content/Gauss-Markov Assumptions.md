@@ -1,7 +1,5 @@
 ---
 title: "Gauss-Markov Assumptions"
-tags:
-- 
 ---
 
 #Econometrics 

@@ -1,7 +1,5 @@
 ---
 title: "System of Regression Equation"
-tags:
-- 
 ---
 
 # [[Seemingly Unrelated Regressions]]

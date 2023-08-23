@@ -1,7 +1,5 @@
 ---
 title: "Latent Variable"
-tags:
-- 
 ---
 
 又叫做“显变量”

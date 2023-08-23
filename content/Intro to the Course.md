@@ -1,7 +1,5 @@
 ---
 title: "Intro to the Course"
-tags:
-- 
 ---
 
 #

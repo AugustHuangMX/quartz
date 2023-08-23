@@ -1,7 +1,5 @@
 ---
 title: "Loadings"
-tags:
-- 
 ---
 
 #Statistics 

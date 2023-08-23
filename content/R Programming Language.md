@@ -1,7 +1,5 @@
 ---
 title: "R Programming Language"
-tags:
-- 
 ---
 
 #programming 

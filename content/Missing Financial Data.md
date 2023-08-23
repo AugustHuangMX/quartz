@@ -1,7 +1,5 @@
 ---
 title: "Missing Financial Data"
-tags:
-- 
 ---
 
 #paper #Econometrics 

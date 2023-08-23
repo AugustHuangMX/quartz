@@ -1,7 +1,5 @@
 ---
 title: "Probability Mass Function"
-tags:
-- 
 ---
 
 #Statistics  

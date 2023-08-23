@@ -1,7 +1,7 @@
 ---
 title: "Labor Supply"
 tags:
-- 
+- LaborEconomics
 ---
 
 #LaborEconomics

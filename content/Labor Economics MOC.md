@@ -1,7 +1,5 @@
 ---
 title: "Labor Economics MOC"
-tags:
-- 
 ---
 
 #MOC 

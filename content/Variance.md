@@ -1,7 +1,5 @@
 ---
 title: "Variance"
-tags:
-- 
 ---
 
 

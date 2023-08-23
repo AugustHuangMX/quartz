@@ -1,7 +1,5 @@
 ---
 title: "Control Variable"
-tags:
-- 
 ---
 
 #

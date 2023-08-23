@@ -1,7 +1,5 @@
 ---
 title: "Latent Factor"
-tags:
-- 
 ---
 
 #Statistics 

@@ -1,7 +1,5 @@
 ---
 title: "Standard Deviation"
-tags:
-- 
 ---
 
 The [[Variance]] of $X$ is denoted as $Var(X)$ or $\sigma ^2_X$  

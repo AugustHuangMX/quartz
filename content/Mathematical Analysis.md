@@ -1,7 +1,5 @@
 ---
 title: "Mathematical Analysis"
-tags:
-- 
 ---
 
 #RealAnalysis 
