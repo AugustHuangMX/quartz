@@ -115,7 +115,12 @@ export function slugAnchor(anchor: string) {
   return slug(anchor)
 }
 
-//这个地方删掉了一节
+export function slugTag(tag: string) {
+  return tag
+    .split("-")
+    .map((tagSegment) => slug(tagSegment))
+    .join("-")
+}
 
 export function joinSegments(...args: string[]): string {
   return args.filter((segment) => segment !== "").join("/")
