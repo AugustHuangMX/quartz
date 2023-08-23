@@ -1,7 +1,5 @@
 ---
 title: "Thirty Years' War"
-tags:
-- 
 ---
 
 #history
