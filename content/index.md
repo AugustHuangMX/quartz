@@ -1,45 +1,48 @@
 ---
-title: Welcome to Quartz 4
+title: 黄指导的数字花园
+enableToc: false
 ---
 
-Quartz is a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites. Thousands of students, developers, and teachers are [[showcase|already using Quartz]] to publish personal notes, wikis, and [digital gardens](https://jzhao.xyz/posts/networked-thought) to the web.
+Hi，我是黄指导，2021 届澳门大学的经济系学生，感谢你点击这个网站，我毫无保留的“第二大脑”。
 
-## 🪴 Get Started
+如果有**任何知识性的错误**和**令你感到不适**的内容，请迅速联系我： augusthuangmx@outlook.com
 
-Quartz requires **at least [Node](https://nodejs.org/) v18.14** to function correctly. Ensure you have this installed on your machine before continuing.
+==这个主页的内容还需要编辑完善，不过你可以直接点击下方的链接进入我的专业的 MOC (Map of Content)来浏览我所有的笔记了。感谢你的支持！==
 
-Then, in your terminal of choice, enter the following commands line by line:
 
-```shell
-git clone https://github.com/jackyzha0/quartz.git
-cd quartz
-npm i
-npx quartz create
-```
+## 杂谈
 
-This will guide you through initializing your Quartz with content. Once you've done so, see how to:
+[[我为什么要做这件事情？]]
 
-1. [[authoring content|Author content]] in Quartz
-2. [[configuration|Configure]] Quartz's behaviour
-3. Change Quartz's [[layout]]
-4. [[build|Build and preview]] Quartz
-5. [[hosting|Host]] Quartz online
+[[这个 Digital Garden 怎么用？]]
 
-> [!info]
-> Coming from Quartz 3? See the [[migrating from Quartz 3|migration guide]] for the differences between Quartz 3 and Quartz 4 and how to migrate.
 
-## 🔧 Features
 
-- [[Obsidian compatibility]], [[full-text search]], [[graph view]], [[wikilinks]], [[backlinks]], [[Latex]], [[syntax highlighting]], [[popover previews]], and [many more](./features) right out of the box
-- Hot-reload for both configuration and content
-- Simple JSX layouts and [[creating components|page components]]
-- [[SPA Routing|Ridiculously fast page loads]] and tiny bundle sizes
-- Fully-customizable parsing, filtering, and page generation through [[making plugins|plugins]]
 
-For a comprehensive list of features, visit the [features page](/features). You can read more about the _why_ behind these features on the [[philosophy]] page and a technical overview on the [[architecture]] page.
+## 一些笔记 ：
 
-### 🚧 Troubleshooting + Updating
+[[Economics MOC]]
 
-Having trouble with Quartz? Try searching for your issue using the search feature. If you haven't already, [[upgrading|upgrade]] to the newest version of Quartz to see if this fixes your issue.
+[Programming Science MOC](Programming%20Science%20MOC.md)
 
-If you're still having trouble, feel free to [submit an issue](https://github.com/jackyzha0/quartz/issues) if you feel you found a bug or ask for help in our [Discord Community](https://discord.gg/cRFFHYye7t).
+[Numerical Analysis MOC](Numerical%20Analysis%20MOC.md)
+
+## 参加的一些有意思的讲座：
+
+[经济学讲座：陆铭老师](经济学讲座：陆铭老师.md)
+
+
+
+## 其他
+
+这个数字花园继承了 LYT (Linking Your Thinking) 的思想，感兴趣的同学可以了解：
+ https://publish.obsidian.md/chinesehelp/01+2021%E6%96%B0%E6%95%99%E7%A8%8B/LYT%E7%AC%94%E8%AE%B0%E6%B3%95%E6%9C%89%E6%B1%89%E5%8C%96%E7%89%88%E4%BA%86+by+%E8%BD%AF%E9%80%9A%E8%BE%BE
+
+
+最后，祝你享受阅读！
+
+2023.4.14 更新：现在可以在主页上直接看到我全局关系图谱了！试着拖拽、选择、点击吧！虽然图无法按照 obsidian 那样聚拢成一个美丽的圆，但是已经足矣！再次感谢大家的支持
+
+
+
+
