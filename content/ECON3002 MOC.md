@@ -1,5 +1,5 @@
 ---
-title: "ECON3002 MOC"
+title: ECON3002 MOC
 tags:
 - 
 ---
@@ -49,7 +49,9 @@ So $Var(Y)=b^2Var(X)$
 
 The [[Standard Deviation]] of $X$ is denoted as $\sigma _X$, also the $\sqrt {Var(X)}$ 
 
+## Joint and Marginal Distributions
 
+The [[Joint Distribution]] is the probability that two [[Discrete Random Variable]] $X$ and $Y$ simultaneously take on particular values. (say $x$ and $y$)
 
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Multidimensional Array"
+title: Multidimensional Array
 ---
 
 #C_language 

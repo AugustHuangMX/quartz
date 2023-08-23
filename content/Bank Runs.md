@@ -1,5 +1,5 @@
 ---
-title: "Bank Runs"
+title: Bank Runs
 ---
 
 #macro

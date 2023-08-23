@@ -1,8 +1,4 @@
----
-title: "What is Econometrics"
-tags:
-- 
----
+
 
 #Econometrics 
 
