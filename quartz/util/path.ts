@@ -117,9 +117,9 @@ export function slugAnchor(anchor: string) {
 
 export function slugTag(tag: string) {
   return tag
-    .split("-")
+    .split("/")
     .map((tagSegment) => slug(tagSegment))
-    .join("-")
+    .join("/")
 }
 
 export function joinSegments(...args: string[]): string {

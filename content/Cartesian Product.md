@@ -1,7 +1,5 @@
 ---
 title: "Cartesian Product"
-tags:
-- 
 ---
 
 #RealAnalysis

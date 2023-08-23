@@ -1,7 +1,5 @@
 ---
 title: "Discrete Choice Models"
-tags:
-- 
 ---
 
 #

@@ -1,3 +1,6 @@
+---
+title: "Budget Constraint"
+---
 
 #macro #LaborEconomics 
 
