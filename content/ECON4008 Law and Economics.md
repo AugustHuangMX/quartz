@@ -50,7 +50,22 @@ This was also mentioned in [[ECON2003 总复习#^210420]]
 
 Then consider a stylized [[Hotelling Model]]
 
+
 ---
 
 # [[Dynamic Games]]
+
+Usually we use the *backward induction* to solve the problem. And the solution is called the [[Subgame Perfect Nash Equilibrium]]. 
+
+Example of the Entry Model.
+
+![[截屏2023-08-25 15.29.11.png]]
+
+## The Centipede Game
+
+How about the [[Centipede Game]]?
+
+![[截屏2023-08-25 15.33.30.png]]
+As learned before, the unique equilibrium outcome would be the player one to choose $D$ at the first move, and the whole game ends.
+
 
