@@ -10,5 +10,8 @@
 
 [[ECON2005 Macroeconomics MOC]]
 
+[[ECON3002 Econometrics MOC]]
 
+[[ECON4006 Labour Economics]]
 
+[[ECON4008 Law and Economics]]

@@ -17,15 +17,13 @@ Hi，我是黄指导，2021 届澳门大学的经济系学生，感谢你点击�
 [[这个 Digital Garden 怎么用？]]
 
 
-
-
-## 一些笔记 ：
+## 一些笔记 MOC (Map of content/仅大三) ：
 
 [[Economics MOC]]
 
 [Programming Science MOC](Programming%20Science%20MOC.md)
 
-[Numerical Analysis MOC](Numerical%20Analysis%20MOC.md)
+[[Other Courses]]
 
 ## 参加的一些有意思的讲座：
 
@@ -43,6 +41,7 @@ Hi，我是黄指导，2021 届澳门大学的经济系学生，感谢你点击�
 
 2023.4.14 更新：现在可以在主页上直接看到我全局关系图谱了！试着拖拽、选择、点击吧！虽然图无法按照 obsidian 那样聚拢成一个美丽的圆，但是已经足矣！再次感谢大家的支持
 
+2023.8.25 网站模板的创作者提供了新的 4.0 版本，目前我的数字花园也已经同步更新至这个版本！
 
 
 

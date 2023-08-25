@@ -1,6 +1,4 @@
----
-title: ECON3002 MOC
----
+
 
 #Econometrics 
 
