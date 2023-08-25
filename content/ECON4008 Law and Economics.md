@@ -1,1 +1,56 @@
 
+## Lecture 1 Review on [[ECON2003 Intermediate Microeconomics II]]
+
+[[Cournot Equilibrium]]
+
+
+An equilibrium can be in 2 steps:
+
+Step 1: Derive the **Best Response**, we set the $q_2$ unchanged, and find out how firm 1 react to maximize its profit. ($q_1$) , that is $u(q_1,q_2):=(1-q_1-q_2)q_1-cq_1$ , *$c$ stands for cost.*
+
+Usually, $q_1=\frac{1-q_2-c}{2}$ is the best response to $q_2$
+
+### Another case: The [[Cournot Equilibrium]] under [[Monopoly]] case.
+
+The key trade off is: *More sales* vs. *lower price*
+
+Since the Monopoly price is quite high, so the firms are all willing to sell more.
+
+Call back to the [[Perfect Competition]], $p=MC=c$ , that means, $(q^C,p^C,u^C)=(1-c,c,0)$ 
+
+---
+
+And the result would be,
+
+$q^M < q^ ∗ < q^C$
+
+$p^C < p^∗ < p^M$
+
+$u^C < u^∗ < u^M$
+
+---
+
+However, for the *social welfare*, the [[Perfect Competition]] performs best.
+
+[[Merger]] is good for the firms.
+
+### Bertrand Competition
+
+How about the firms compete in price? 
+
+In [[Bertrand Model]], $(p_1,p_2)=(c,c)$ is the [[Nash Equilibrium]] the firm's profit is zero in the equilibrium. Similar to [[Perfect Competition]]
+
+Since the product are the same (the assumption is so), the firms all have incentive to increase the market share from $50\%$ to $100\%$. 
+
+Introducing the *product differentiation* would solve this problem.
+
+## The [[Cournot Equilibrium]] vs. [[Bertrand Model]]
+
+This was also mentioned in [[ECON2003 总复习#^210420]] 
+
+Then consider a stylized [[Hotelling Model]]
+
+---
+
+# [[Dynamic Games]]
+

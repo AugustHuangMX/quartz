@@ -1,8 +1,3 @@
----
-title: "Dynamic Games"
----
-
-#micro
 
 ### 我的想法
 
