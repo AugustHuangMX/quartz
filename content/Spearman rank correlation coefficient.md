@@ -1,6 +1,6 @@
 It is also a technique of [[Non-parameter Statistic]]
 #permanent #Statistics 
-This is a update of the [[coefficient of correlation]], Because sometimes the variables maybe ordinal, or the normality requirement can't be satisfied.
+This is a update of the [[Correlation Coefficient]], Because sometimes the variables maybe ordinal, or the normality requirement can't be satisfied.
 So we have to use this technique to solve such problems
 *Spearman correlation coefficient* is labeled as $\rho _s$, *sample statistic* used to estimate its value is labeled as $r_s$
 $$

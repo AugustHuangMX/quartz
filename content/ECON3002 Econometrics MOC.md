@@ -49,6 +49,8 @@ And this is the core of  [[The Law of Iterated Expectations]]
 
 ### The Independence
 
+#### The Discrete Case
+
 [[Independence]] Two random  variables $X$ and $Y$ are said to be *independently distributed* if 
 
 $$
@@ -70,9 +72,46 @@ $$
 Then the $X$ and $Y$ are independent.
 
 
+#### The Continuous Case
+
+$Y$ is independent of $X$:
+
+$f_{y|x}(y|x)=f_y(y)$
+
+$f_{yx}(y,x)=f_y(y)f_x(x)$
 
 
 ---
+
+We use [[Correlation Coefficient]] to estimate the strength of the 2 variables. 
+
+It is rescaled to be between $-1$ to $1$ , and it is also unit free.
+
+$$
+\rho=\frac{cov(X,Y)}{\sigma_X \sigma_Y}
+$$
+
+> How to compute $cov(X,Y)$? See [[Covariance]] 
+
+If $\rho = 1$, it is perfect positive linear relation
+
+If $\rho = -1$, it is perfect negative linear relation
+
+(Most of the time the [[Correlation Coefficient]] would be between when estimate econometrics problem.)
+
+That is, we use *absolute value* $|\rho|$ to reflects the strength of **linear** association between the 2 variables.
+
+--- 
+
+### Independence vs. Uncorrelation
+
+It is claimed that Independence => $\rho = 0$ , but not vice versa. (Think of the question $Y=X^2$)
+
+This is why we have to highlight the "linear" in 
+
+> That is, we use *absolute value* $|\rho|$ to reflects the strength of **linear** association between the 2 variables.
+
+The independence only hold if $X$ has no relationship (neither linear nor nonlinear) of $Y$!
 
 
 

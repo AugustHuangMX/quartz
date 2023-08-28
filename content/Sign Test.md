@@ -1,17 +1,25 @@
 [[Non-parameter Statistic]]
-#input #permanent 
+
 3 requirements
+
 1. The problem objective is to compare two populations.
 2. The data are ordinal.
 3. The experimental design is matched pairs
 
 ## The Hypothesis
+
 $H_0$ : The 2 population locations are the same
+
 That also means
+
 $H_0$ : $p=.5$
-Recall the [[binomially distribution]]
+
+Recall the [[Binomially Distribution]]
+
 Standardized test statistic is 
+
 $z=\frac{x-np}{\sqrt{np(1-p)}}$
+
 $x$ is the number that are positive.
 
 

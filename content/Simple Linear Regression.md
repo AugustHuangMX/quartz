@@ -16,7 +16,7 @@ $$\sum_{i=1}^n(y_1-\hat{y_i})$$
 $b_1=\frac{s_{xy}}{s^2_x}$ This is coefficient
 $b_0=\hat{y}-b_1\hat{x}$
 其中
-$s_{xy}=\frac{\sum^n_{i=1}(x_i-\overline{x})(y_i-\overline{y})}{n-1}$  This is Covariance
+$s_{xy}=\frac{\sum^n_{i=1}(x_i-\overline{x})(y_i-\overline{y})}{n-1}$  This is [[Covariance]]
 $s_{x^2}=\frac{\sum^n_{i=1}(x_i-\overline{x})^2}{n-1}$  This is variance ^6434 ad
 
 我们很少采用手工的方法区计算（主要是太麻烦了）
