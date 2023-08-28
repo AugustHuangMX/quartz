@@ -33,6 +33,26 @@ $$
 
 > Remember the second part is the event that you already know.
 
+##   Expected value and variance of a linear function
+
+The basic knowledge: [[Variance]]
+
+Prove: if $Y=a+bX$ then $Var(Y)=b^2Var(X)$ , why?
+
+Since $Var(X)= E[(x-E(X))^2]$  so that $Var(Y)=E(a+bx-E(a+bx))^2$
+
+$Var(Y)=E[(b(x-\overline x))^2]$ (the right part is the $Var(X)$)
+
+So $Var(Y)=b^2Var(X)$
+
+## [[Standard Deviation]]
+
+The [[Standard Deviation]] of $X$ is denoted as $\sigma _X$, also the $\sqrt {Var(X)}$ 
+
+## Joint and Marginal Distributions
+
+The [[Joint Distribution]] is the probability that two [[Discrete Random Variable]] $X$ and $Y$ simultaneously take on particular values. (say $x$ and $y$)
+
 ### The law of iterated expectations
 
 [[The Law of Iterated Expectations]]  is the mean of Y is the weighted average of the conditional expectation of $Y$ given X, weighted by the prob distribution of $X$ 
@@ -112,6 +132,9 @@ This is why we have to highlight the "linear" in
 > That is, we use *absolute value* $|\rho|$ to reflects the strength of **linear** association between the 2 variables.
 
 The independence only hold if $X$ has no relationship (neither linear nor nonlinear) of $Y$!
+
+
+
 
 
 

@@ -9,7 +9,9 @@ The $\Omega$ stands for all possible outcomes.
 
 A *discrete* random variable i.e the coin (0 or 1 no others)
 
-A *continuous* random variable i.e the time spent on phone
+A *continuous* random variable i.e the time spent on phone (some times the $f(x)$ could be above 1)
+
+
 
 ### Discrete Random Variable
 
@@ -32,6 +34,25 @@ Since $Var(X)= E[(x-E(X))^2]$  so that $Var(Y)=E(a+bx-E(a+bx))^2$
 $Var(Y)=E[(b(x-\overline x))^2]$ (the right part is the $Var(X)$)
 
 So $Var(Y)=b^2Var(X)$
+
+
+Prove: $Var(X)=E(X^2)-[E(X)^2]$:
+
+$Var(X)=E[(X-E(X))^2]=E[X^2-2XE(X)+E(X)^2]$
+
+$=E[X^2]-2E(XE(X))+E(X)^2]$
+
+==Remember, $E(E(X))=E(X)$, so:
+
+$=E[X^2]-2E(X)^2+E(X)^2$
+
+$=E[X^2]-E(X)^2$
+
+
+
+
+
+
 
 ## [[Standard Deviation]]
 
