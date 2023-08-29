@@ -45,6 +45,45 @@ $Var(Y)=E[(b(x-\overline x))^2]$ (the right part is the $Var(X)$)
 
 So $Var(Y)=b^2Var(X)$
 
+
+--- 
+
+Prove: $Var(X)=E(X^2)-[E(X)^2]$:
+
+$Var(X)=E[(X-E(X))^2]=E[X^2-2XE(X)+E(X)^2]$
+
+$=E[X^2]-2E(XE(X))+E(X)^2]$
+
+==Remember, $E(E(X))=E(X)$, so:==
+
+$=E[X^2]-2E(X)^2+E(X)^2$
+
+$=E[X^2]-E(X)^2$
+
+---
+
+## Moments
+
+Both [[Mean]] and [[Variance]] belong to a class of measures, called [[Moments]]
+
+It is divided by the *Raw Moments* and the *Central Moments* 
+
+Calculate the skewness: 
+
+$Skewness:=\frac{\sigma^{(3)}}{\sigma^3}$ 
+
+$Kurtosis:=\frac{\sigma^{(4)}}{\sigma^4}$  (measure the *thickness of the tails*)
+
+$Excess\ Kurtosis := Kurtosis - 3$
+
+![[Pasted image 20230828153412.png]]
+
+
+
+
+
+---
+
 ## [[Standard Deviation]]
 
 The [[Standard Deviation]] of $X$ is denoted as $\sigma _X$, also the $\sqrt {Var(X)}$ 

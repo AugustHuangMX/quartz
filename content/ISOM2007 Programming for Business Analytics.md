@@ -61,3 +61,41 @@ print(total)
 Then it would be `435`
 
 > Warning: Do not use `int()` because it will only keep the integer part
+
+
+
+
+## 8.29 Lecture 4
+
+### Review
+
+Assign a variable: `variable = expression`, remember do not use the `%` or `?` to assign it.
+
+The function `%whos` , to show all the self-defined variables.
+
+The arithmetic operators and some built-in functions and so on are also useful. Some math module can be also used (but have to `from math import sqrt`) 
+
+Some interesting things: 
+
+```python
+print(-9//5)
+```
+
+It would print `-2` 
+
+---
+
+Today's class:
+
+### Strings
+
+See some explanation about Strings in [[Sequence Functions]]
+
+#### String Length
+```python
+length = len("World!")
+print(length)
+```
+
+It is `6`, (do not count `""`)
+

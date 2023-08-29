@@ -1,12 +1,4 @@
----
-title: "Tuples, Lists, Iteration"
-sr-due: 2023-04-25
-sr-interval: 8
-sr-ease: 250
----
-#programming 
 
-### 我的想法
 
  Python 里的 [[Tuple]] 在中文里被称为“元组”，和列表 ([[List]]) 类似，由一系列按特定顺序排序的元素组成。尽管有相似的地方，但是仍然有些许不同。
 

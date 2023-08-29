@@ -52,8 +52,6 @@ $=E[X^2]-E(X)^2$
 
 
 
-
-
 ## [[Standard Deviation]]
 
 The [[Standard Deviation]] of $X$ is denoted as $\sigma _X$, also the $\sqrt {Var(X)}$ 
