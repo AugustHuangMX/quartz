@@ -1,8 +1,8 @@
 ---
-title: "Pareto Optimality"
+title: Pareto Optimality
+tags:
+  - Econ/Micro
 ---
-
-#micro
 
 ### 我的想法
 
@@ -43,4 +43,3 @@ Think about the case in the [Game Theory](Game%20Theory.md) , the player in the 
 ### Reference 
 
 - 怎样理解帕累托最优和纳什均衡及其关系？ - 知乎 https://www.zhihu.com/question/22821519
-- 

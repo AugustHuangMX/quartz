@@ -1,3 +1,8 @@
+---
+title: ECON3002 Econometrics MOC
+tags:
+  - Econ/Econometrics
+---
 
 
 #Econometrics 
@@ -94,7 +99,7 @@ The [[Joint Distribution]] is the probability that two [[Discrete Random Variabl
 
 ### The law of iterated expectations
 
-[[The Law of Iterated Expectations]]  is the mean of Y is the weighted average of the conditional expectation of $Y$ given X, weighted by the prob distribution of $X$ 
+[[Law of Iterated Expectations]]  is the mean of Y is the weighted average of the conditional expectation of $Y$ given X, weighted by the prob distribution of $X$ 
 $$
 E(Y)=\sum^l _{i=1}E(Y|X=x_i)Pr (X=x_i)
 $$
@@ -104,7 +109,7 @@ $$
 E(Y)=E[E(Y|X)]
 $$
 
-And this is the core of  [[The Law of Iterated Expectations]]
+And this is the core of  [[Law of Iterated Expectations]]
 
 ### The Independence
 

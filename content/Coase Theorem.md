@@ -45,9 +45,9 @@ Now, 攻守之势异也. Firm A act as a seller, while firm B is the buyer. So t
 
 ## Conclusion
 
-The conclusion is that no matter the owner of the river is who, once there is no [Transaction cost](Transaction%20cost.md), the market solution would come the the Social Optimum ($Q^{** }$) and this is the brief insight of the [Coase Theorem](Coase%20Theorem.md)
+The conclusion is that no matter the owner of the river is who, once there is no [Transaction Cost](Transaction%20Cost.md), the market solution would come the the Social Optimum ($Q^{** }$) and this is the brief insight of the [Coase Theorem](Coase%20Theorem.md)
 
-### The role of  the [Transaction cost](Transaction%20cost.md)
+### The role of  the [Transaction Cost](Transaction%20Cost.md)
 
 Notice that the [Coase Theorem](Coase%20Theorem.md) is under an assumption that they have no cost on the transaction. If the cost of this is too high, the deal maybe not appear, see [[Externalities with High Transaction Cost]]
 

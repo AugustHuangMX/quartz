@@ -92,6 +92,7 @@ Today's class:
 See some explanation about Strings in [[Sequence Functions]]
 
 #### String Length
+
 ```python
 length = len("World!")
 print(length)
@@ -99,3 +100,34 @@ print(length)
 
 It is `6`, (do not count `""`)
 
+We use the `str` to convert between numbers and strings.
+
+How to copy a character from a string? 
+
+![[截屏2023-08-29 11.56.32.png]]
+
+We set this string to be 'name'
+
+```python
+start = name[0]
+```
+
+#### Escape Sequences
+
+```python
+print("He said\"Hello\"")
+```
+
+To provide a double quote. Similarly, if you want to print a `\`, just need to add a `\`, which is
+
+```python
+print("\"C:\\Temp\\Secret.txt\"")
+```
+
+### Input and Output
+
+How to separate? Use `sep=`
+
+```python
+print("Hello","World","Cheer",sep=" ")
+```

@@ -3,7 +3,6 @@
 
 [[Cournot Equilibrium]]
 
-
 An equilibrium can be in 2 steps:
 
 Step 1: Derive the **Best Response**, we set the $q_2$ unchanged, and find out how firm 1 react to maximize its profit. ($q_1$) , that is $u(q_1,q_2):=(1-q_1-q_2)q_1-cq_1$ , *$c$ stands for cost.*
@@ -68,4 +67,13 @@ How about the [[Centipede Game]]?
 ![[截屏2023-08-25 15.33.30.png]]
 As learned before, the unique equilibrium outcome would be the player one to choose $D$ at the first move, and the whole game ends.
 
+## The bargain problem
+
+#### Approach to analyze the Legal Rules:
+
+- Step 1: What happens in the efficient outcome? (This does not depend on the allocation of the legal rights.) 
+- Step 2: What happens without bargaining (threat values.) 
+- Step 3: What is the [[Cooperative Surplus]]? 
+- Step 4: What are the final payoffs after bargaining? *Given equal bargaining power, each party is better off by half of the cooperative surplus.**
+- Step 5: Work out the corresponding price/transfer.
 

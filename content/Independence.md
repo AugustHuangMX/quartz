@@ -1,3 +1,7 @@
+---
+
+---
+# Discrete Case
 
 Two random  variables $X$ and $Y$ are said to be *independently distributed* if 
 
@@ -18,3 +22,16 @@ Pr(X=x,Y=y)=Pr(X=x)Pr(Y=y)
 $$
 
 Then the $X$ and $Y$ are independent.
+
+> Notice that all the conditions must satisfy, or the [[Independence]] do not exist.
+
+---
+
+# Continuous Case
+
+$Y$ is independent of $X$ if 
+
+$$
+\begin{aligned}
+
+$$
