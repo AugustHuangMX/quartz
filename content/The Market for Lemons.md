@@ -29,7 +29,14 @@ The deal could happen.
 
 So after repeated games, the result would be the quality of cars would continuously decrease and the high quality will get out of the market. ( Because the seller don't want to make the deal)
 
+
+---
+
+## Other Applications:
+
+- Online shopping: Are the shoes a knockoff? （廉价仿制品）
+- Car insurance: Is the person buying insurance cautious or reckless?
+- Job Market: Is the employee you hire diligent or lazy?
 ### Reference 
 
 - https://zh.wikipedia.org/zh-cn/%E6%9F%A0%E6%AA%AC%E5%B8%82%E5%9C%BA
-- 
