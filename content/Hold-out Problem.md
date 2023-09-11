@@ -1,0 +1,1 @@
+Suppose the government wants to purchase 3 lands lots to build a school, which creates a social value of 100. And each land owner values his lot at 20.

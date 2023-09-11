@@ -15,7 +15,7 @@ It means **expenses incurred when buying or selling a good or service**
 The potential [[Transaction Cost]] for [[Bargaining]] may be 
 
 - Search cost (Before [[Bargaining]]) , if you are just playing [[Game Theory]] with your roommate, it has a relatively low Search Cost.
-- Bargaining cost (during [[Bargaining]]), it includes the [[Asymmetric Information]], [[Free Rider]] problem, and Hold-out problem (many sellers sharing the sale)
+- Bargaining cost (during [[Bargaining]]), it includes the [[Asymmetric Information]], [[Free-Rider]] problem, and Hold-out problem (many sellers sharing the sale)
 - Enforcement cost (after [[Bargaining]])
 
 ### Reference 

@@ -177,6 +177,8 @@ This is why we have to highlight the "linear" in
 
 The independence only hold if $X$ has no relationship (neither linear nor nonlinear) of $Y$!
 
+[[ECON3002 Lecture2]]
+
 
 
 

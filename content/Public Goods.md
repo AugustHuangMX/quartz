@@ -27,7 +27,7 @@ The public goods have 2 features, one is [[Nonrival]] and another is [[Nonexclus
 
 ### Problems
 
-The public goods will also face some problems, because since we know everyone would benefit from the public goods. So that everyone could have the incentive to be a [[Free Rider]], then there would be some methods regarding to the [Game Theory](Game%20Theory.md) .
+The public goods will also face some problems, because since we know everyone would benefit from the public goods. So that everyone could have the incentive to be a [[Free-Rider]], then there would be some methods regarding to the [Game Theory](Game%20Theory.md) .
 
 
 

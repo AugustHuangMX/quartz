@@ -4,5 +4,9 @@ For example, if $WTP$ and $WTA$ are the private information, it is hard to achie
 
 See the famous example called [[The Market for Lemons]]
 
+Other potential problems of [[Bargaining Cost]] is the [[Free-Rider]] problem and the [[Hold-out Problem]]
+
+
+
 
 
