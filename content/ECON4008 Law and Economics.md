@@ -1,4 +1,7 @@
 
+To analyze the laws as an "Economist".
+
+
 ## Lecture 1 Review on [[ECON2003 Intermediate Microeconomics II]]
 
 [[Cournot Equilibrium]]
