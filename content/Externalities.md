@@ -1,6 +1,3 @@
----
-title: "Externalities"
----
 
 # Tell it by myself...
 

@@ -18,6 +18,14 @@ The potential [[Transaction Cost]] for [[Bargaining]] may be
 - Bargaining cost (during [[Bargaining]]), it includes the [[Asymmetric Information]], [[Free-Rider]] problem, and Hold-out problem (many sellers sharing the sale)
 - Enforcement cost (after [[Bargaining]])
 
+## High or Low
+
+When [[Transaction Cost]] is low, that leads to facilitate voluntary trade, often related to [[Private Goods]].
+
+When [[Transaction Cost]] is high, that leads to allocate rights efficiently, often related to [[Public Goods]]
+
+
+
 ### Reference 
 
 https://zh.wikipedia.org/zh-cn/%E4%BA%A4%E6%98%93%E6%88%90%E6%9C%AC
