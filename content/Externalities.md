@@ -9,9 +9,22 @@
 ---
 
 *Definition*: 
-One agent’s welfare (utility or profit) *affected* directly by action of another one in the economy, it is not taken into account by the price system.
+One agent’s welfare (utility or profit) *affected* directly by action of another one in the economy, it is not taken into account by the price system. And it is a kind of [[Market Failure]] 
 
 Although the externality could be between producer and producer, producer and consumer, consumer and consumer, for convenience, we still isolate the *Producer and Producer* case, because it can analyze easier by number, to calculate the utility. (See [Utility Theory](Utility%20Theory.md))
+
+## Some  Examples:
+
+#### Positive Examples:
+
+1. Provision of [[Public Goods]]
+2. Education
+3. Vaccination during a pandemic
+
+*Positive Externalities means your own choice output is less than the max social benefit (which is the efficient quantities), otherwise it is a negative externalities*
+
+Sometimes we use subsidy to improve the efficiency of *positive externalities*, while we use *taxes* to reduce the *negative externalities*
+
 
 ## Producer and Producer
 

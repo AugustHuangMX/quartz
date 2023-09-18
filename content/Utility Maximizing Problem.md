@@ -15,3 +15,4 @@ Then take derivates with respect to the control variables in order to get the FO
 
 The results would give you  $\frac{u_x(x,y)}{p_x}=\frac{u_y(x,y)}{p_y}$, which means spending $\$ \epsilon$ more on $x$ or on $y$ should give you the same [[Marginal Utility]]
 
+

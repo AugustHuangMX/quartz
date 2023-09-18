@@ -1,6 +1,4 @@
 
----
-
 ## 1. The monopoly
 
 Old knowledge, which means single seller with many buyers.
