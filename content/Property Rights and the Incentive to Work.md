@@ -30,5 +30,5 @@ After a simple calculations, the [[Nash Equilibrium]] would be (Steal, Steal).
 
 ---
 
-That means the protection of property rights are really important. But [[How Should Property Rights Be Assigned?]]
+That means the protection of propery rights are really important. But [[How Should Property Rights Be Assigned?]]
 

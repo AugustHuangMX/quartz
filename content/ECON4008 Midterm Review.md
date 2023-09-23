@@ -17,8 +17,8 @@ While all the materials discussed in class may appear in the exam, the following
 ### Examples :
 
 - [[Property Rights and the Incentive to Work]]
-- Rancher and farmer bargaining.
-- Laundry and Electric Company.
+- [[Rancher and Farmer Bargaining]].
+- [[Laundry and Electric Company]].
 - [[The Market for Lemons]].
 - [[Insurance Example]].
 - Case Study: [[Boomer v. Atlantic Cement Co., Inc]].

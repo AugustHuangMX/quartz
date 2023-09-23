@@ -263,6 +263,7 @@ Large Dimensional Latent Factor Modeling with Missing Observations and Applicati
 Largrangian Multiplier.md
 Latent Factor.md
 Latent Variable.md
+Laundry and Electric Company.md
 Law of Iterated Expectations.md
 Law of Large Numbers.md
 Lecture Notes for ECON3002.md
@@ -393,6 +394,8 @@ Programming Science MOC.md
 Programming Study MOC.md
 Property Law.md
 Property Rights and the Incentive to Work.md
+Property Rights and the Incentive to Work.md#Example 1
+Property Rights and the Incentive to Work.md#Example 2
 Public Goods.md
 Public Goods.md#Problems
 Public Goods.md#Roommate problem
@@ -400,6 +403,11 @@ Public Goods.md#我的想法
 Pure-Strategy Nash Equilibrium.md
 Python MOC.md
 R Programming Language.md
+Rancher and Farmer Bargaining.md
+Rancher and Farmer Bargaining.md#Farmer has the right
+Rancher and Farmer Bargaining.md#Move forward: If we can build a fence...
+Rancher and Farmer Bargaining.md#Move forward: If we can build a fence...#If farmer has the right
+Rancher and Farmer Bargaining.md#Rancher has the right
 Real Analysis.md
 Recession.md
 Recursion.md
