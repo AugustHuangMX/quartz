@@ -8,7 +8,7 @@ Old knowledge, which means single seller with many buyers.
 
 ### 1.2 The Monopolist's Production Decision
 
-经典老知识的回顾（详见 [[ECON2002 Microeconomics I]]
+经典老知识的回顾（详见 [[ECON2002 Microeconomics I]]）
 
 $\Pi = p(q)q-C(q)$
 
