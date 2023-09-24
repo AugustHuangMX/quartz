@@ -21,6 +21,9 @@ Bargaining.md
 Bertrand Model.md
 Binomially Distribution.md
 Bolean Operations.md
+Boomer v. Atlantic Cement Co., Inc.md
+Boomer v. Atlantic Cement Co., Inc.md#Background
+Boomer v. Atlantic Cement Co., Inc.md#Quick description
 Box-Cox Transformation.md
 Budget Constraint.md
 C programming language.md
@@ -143,6 +146,7 @@ ECON3010 presentation.md#KF 总结
 ECON3010 presentation.md#KF 总结#Related Links
 ECON3010 presentation.md#感想 ：
 ECON3010 presentation.md#我的疑问
+ECON4006 Labour Economics.md
 ECON4008 Law and Economics.md
 ECON4008 Midterm Review.md
 ECON4008 Midterm Review.md#Efficiency
@@ -288,6 +292,7 @@ Linear Algebra MOC.md
 List.md
 Loadings.md
 Loop.md
+MATH2003 Mathematical Analysis I.md
 MLE 极大似然估计.md
 MLE 极大似然估计.md#Tell It by Myself...#例题
 MLE 极大似然估计.md#Tell It by Myself...#前情提要
