@@ -5,28 +5,21 @@ Reference
 
 [[Cartesian Product]]
 
-1.2.2 Principle of Mathematical Induction prove:
+## Notes
 
-Proof: Suppose to the contrary that $S\neq N$ 
+**3.1.3 Definition** 
 
-Since N\s
-$m\in IN,m\notin S$  
+**3.1.4 Uniqueness of Limits** To prove the uniqueness of limits, it uses the way of *contradiction*, that is assume that there exists 2.
 
-Since $m\in N,m-1\in N$
+Also refer to the *triangle inequality*.
 
-Then $m-1<m$
+`9.26 hard` 
 
-$m-1\notin N/S$
+**3.1.5 Theorem** equivalence of different properties.
 
-$m-1$
+绝对值打开这个方法可以直接用
 
+$$
+|u-x|<\epsilon \Leftrightarrow -\epsilon<u-x<\epsilon \Leftrightarrow x - \epsilon < u < x+\epsilon \Leftrightarrow u\in V_\epsilon(x)
+$$
 
-2. For every $k\geq n_0$ , if $P(k)$ is true, then $P(k+1)$ is true
-
-Since $k\geq n_0$, $k-n_0+1\in S$ , $k+1-n_0\in S$, $(k-n_0+1)\in S$
-
-If we replace  $k-n_0+1$ by $m$, we find $m\in N$ is arbitray and satisfy,
-
-$m\in S => m+1\in S$ 
-
-$S=\{n\in N: P(n) \ is\ true\}$ 

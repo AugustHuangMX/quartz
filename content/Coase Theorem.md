@@ -1,14 +1,11 @@
----
-title: "Coase Theorem"
----
 
 #micro 
 
 ### 我的想法
 
-It is a similar concept to [Pigou](Pigou.md) Theorem. But it mostly focus on the market side (while [[Pigou]]) is on the government side. 
+It is a similar concept to [[Pigou]] Theorem. But it mostly focus on the market side (while [[Pigou]]) is on the government side. 
 
-It's about a theory that, the market could adjust themselves. That means, if 2 firms in the Market would realize the existence of the [Externalities](Externalities.md), and they have abilities to bargain freely, then it would lead to the result which both firms maybe satisfied. And this is called the [Coase Theorem](Coase%20Theorem.md)
+It's about a theory that, the market could adjust themselves. That means, if 2 firms in the Market would realize the existence of the [[Externality]], and they have abilities to bargain freely, then it would lead to the result which both firms maybe satisfied. And this is called the [Coase Theorem](Coase%20Theorem.md)
 
 
 ---

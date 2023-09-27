@@ -9,7 +9,7 @@ title: "Externalities and Public Goods"
 ### Reference Pages
 
 
-[[Externalities]]
+[[Externality]]
 
 [Pigou Tax](Pigou%20Tax.md)
 
