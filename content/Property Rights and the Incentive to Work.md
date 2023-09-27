@@ -28,6 +28,14 @@ Consider there are 2 farmers in the economy society. And,
 
 After a simple calculations, the [[Nash Equilibrium]] would be (Steal, Steal).
 
+The *social optimum* would be $(10,10)$ , while the [[Nash Equilibrium]] would be $(0,0)$
+
+
+
+
+
+
+
 ---
 
 That means the protection of propery rights are really important. But [[How Should Property Rights Be Assigned?]]

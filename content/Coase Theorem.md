@@ -1,8 +1,3 @@
-
-#micro 
-
-### 我的想法
-
 It is a similar concept to [[Pigou]] Theorem. But it mostly focus on the market side (while [[Pigou]]) is on the government side. 
 
 It's about a theory that, the market could adjust themselves. That means, if 2 firms in the Market would realize the existence of the [[Externality]], and they have abilities to bargain freely, then it would lead to the result which both firms maybe satisfied. And this is called the [Coase Theorem](Coase%20Theorem.md)
@@ -44,12 +39,14 @@ Now, 攻守之势异也. Firm A act as a seller, while firm B is the buyer. So t
 
 The conclusion is that no matter the owner of the river is who, once there is no [Transaction Cost](Transaction%20Cost.md), the market solution would come the the Social Optimum ($Q^{** }$) and this is the brief insight of the [Coase Theorem](Coase%20Theorem.md)
 
-### The role of  the [Transaction Cost](Transaction%20Cost.md)
+### The role of  the [[Transaction Cost]]
 
 Notice that the [Coase Theorem](Coase%20Theorem.md) is under an assumption that they have no cost on the transaction. If the cost of this is too high, the deal maybe not appear, see [[Externalities with High Transaction Cost]]
 
 
+In the topics of [[ECON4008 Law and Economics]]
 
+Core information : $WTP$ and $WTA$ 
 
 
 

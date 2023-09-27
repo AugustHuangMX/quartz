@@ -1,12 +1,10 @@
 ---
 title: "Transaction cost"
 ---
-
-#macro
-
-### 我的想法
-
 Transaction cost first appears in the [ECON2005 Macroeconomics MOC](ECON2005%20Macroeconomics%20MOC.md) course, but it then appears in [ECON2003 Intermediate Microeconomics II](ECON2003%20Intermediate%20Microeconomics%20II.md) about the [Coase Theorem](Coase%20Theorem.md)
+
+It also appears in [[ECON4008 Law and Economics]]
+
 
 ---
 
@@ -23,6 +21,12 @@ The potential [[Transaction Cost]] for [[Bargaining]] may be
 When [[Transaction Cost]] is low, that leads to facilitate voluntary trade, often related to [[Private Goods]].
 
 When [[Transaction Cost]] is high, that leads to allocate rights efficiently, often related to [[Public Goods]]
+
+In [[ECON4008 Law and Economics]], we measure the cost *mostly* consider how many people in the people.
+
+
+
+
 
 
 
