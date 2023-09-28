@@ -16,7 +16,8 @@ Since if this fishery is profitable, there would be more and more boats come in,
 
 So, 
 
-$$\begin{aligned}
+$$
+\begin{aligned}
 \pi &= TR-TC\\
 0&=(24-0.5N) * 1-10\\
 N&=28
@@ -29,7 +30,8 @@ So there would be $28$ boats and the quantity of fish would be $10$.
 
 Since the *efficient* means the $\pi_{max}$, so we have to take the derivative. Also notice, for private, $\pi = 14-0.5N$, for public, $\Pi = 14N-0.5N^2$. So,
 
-$$\begin{aligned}
+$$
+\begin{aligned}
 \Pi = 14N-0.5N^2\\
 \frac{\delta \Pi}{\delta N}=14-N=0
 \end{aligned}

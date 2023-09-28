@@ -4,7 +4,7 @@ Also know as *Pigouvian tax*
 
 1. 先算出对于 Society 的 optimal quantity
 2. 将 $SMC$ 与 $MC$ 相减，也就是算出 $\delta$ cost 检验究竟要花多少钱来弥补
-4. 再用 delta cost multiply by the delta quantity, then it would be the [Pigou Tax](Pigou%20Tax.md)
+4. Then use delta cost multiply by the delta quantity, then it would be the [[Pigou Tax]]
 
 One numerical example
 
