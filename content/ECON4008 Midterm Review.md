@@ -22,9 +22,18 @@ While all the materials discussed in class may appear in the exam, the following
 - [[The Market for Lemons]].
 - [[Insurance Example]].
 - Case Study: [[Boomer v. Atlantic Cement Co., Inc]].
-- Gas drilling and ownership rule.
+- [[Gas Drilling]] and ownership rule.
 - [[Crabbing]].
-- Externality and Pigovian Tax Example
+- [[Externality and Pigovian Tax Example]]
 
 It would also be a good idea to make sure you know how to solve the questions in the problem sets (and similar ones), at least after seeing the solutions. In the exam, most of the questions will be numerical ones. And the format will be similar to the numerical problem sets. You will see a description of a scenario, and be asked to analyze various questions arising in the scenario.
 
+
+## Some other concepts that I think are important...
+
+[[Threat Values]]
+
+#### To-do
+
+- [ ] Cooperative Surplus
+- [ ] Threat Values

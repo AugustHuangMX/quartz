@@ -12,6 +12,12 @@ However, the [[Tied Ownership]] holds another point of view.
 
 Create the incentive to invest too much *too early* in order to establish (overproduce problem)
 
+▶ In a contest for title, persons try to get ownership rights transferred to themselves.
+
+▶ Economic efficiency, however, concerns the production of wealth, not the transfer of it.
+
+▶ Investments for the sake of transferring wealth, not producing it, are socially inefficient.
+
 ### Example:
 
 The Drilling Example: (Also a kind of [[Nash Equilibrium]])

@@ -1,12 +1,3 @@
----
-title: "Externalities and Public Goods"
----
-
-### 我的想法
-
-
-
-### Reference Pages
 
 
 [[Externality]]
