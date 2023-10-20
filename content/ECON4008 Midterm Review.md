@@ -29,11 +29,16 @@ While all the materials discussed in class may appear in the exam, the following
 It would also be a good idea to make sure you know how to solve the questions in the problem sets (and similar ones), at least after seeing the solutions. In the exam, most of the questions will be numerical ones. And the format will be similar to the numerical problem sets. You will see a description of a scenario, and be asked to analyze various questions arising in the scenario.
 
 
+**Question:** Which type of rule, property or liability, is generally more efficient when transaction costs are high, and which is generally more efficient when transaction costs are low? Given this, is the use of eminent domain more likely to be efficient in the presence of high or low transaction costs? 
+
+*Liability rules (damages) are generally more efficient when transaction costs are high, and property rules are generally more efficient when TC are low. Since eminent domain is similar to a liability rule, this suggests it’s more likely to be efficient when TC are high.*
+
+
 ## Some other concepts that I think are important...
 
 [[Threat Values]]
 
 #### To-do
 
-- [ ] Cooperative Surplus
-- [ ] Threat Values
+- [x] Cooperative Surplus
+- [x] Threat Values

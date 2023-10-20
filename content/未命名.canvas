@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"04486d333c1c206c","type":"text","text":"#### Property rule/injunctive relief.\n\nentitlement is *negotiable* (I can choose to sell/give up my right)","x":-94,"y":-79,"width":434,"height":230},
+		{"id":"e8d3d3f24ea42c54","type":"text","text":"#### Liability rule/damages.\n\n▶ Violations of the entitlement are compensated.\n\n▶ Damages — payment to victim to compensate for damage done.","x":-94,"y":220,"width":447,"height":249},
+		{"id":"e11009f4c1c514c2","type":"text","text":"### Comparison\n\n*Injurer* always prefers a *damages rule*.\n\n*Injuree* prefers a property rule\n\nInjunctions are generally cheaper to administer. (No need for court to calculate amount of harm done)\n\nBut *when bargaining is impossible* ([[Transaction Cost]] is relatively high), the damages would be more efficient.\n\n\nAny rule would be efficient when the [[Transaction Cost]] is low\n\nWhen [[Transaction Cost]] is low, [[Property Law]].\n\nWhen [[Transaction Cost]] is high, [[Liability Law]]","x":600,"y":-220,"width":520,"height":689,"color":"2"},
+		{"id":"5670d6971835d1b5","type":"file","file":"Coase Theorem.md","x":1400,"y":80,"width":460,"height":260},
+		{"id":"9e4e23a43a4822e7","x":-47,"y":740,"width":340,"height":118,"type":"text","text":"### Public vs. Private Goods\n\n"},
+		{"id":"a00fd1918dbaa832","x":460,"y":540,"width":400,"height":400,"type":"file","file":"Public Goods.md"},
+		{"id":"92482e4c09694f65","x":460,"y":1000,"width":400,"height":400,"type":"file","file":"Private Goods.md"},
+		{"id":"90ca55c93050b3ad","x":1120,"y":910,"width":320,"height":90,"type":"text","text":"2 kinds of problems:"},
+		{"id":"9402469920be28f7","x":1560,"y":887,"width":438,"height":137,"type":"text","text":"When private goods are owned publicly, they tend to be overutilized/overexploited"},
+		{"id":"71e6915d0f36f31f","x":1560,"y":1100,"width":409,"height":161,"type":"text","text":"When public goods are privately owned, they tend to be underprovided/undersupplied."},
+		{"id":"e715a050cb7a6bda","x":2100,"y":925,"width":352,"height":60,"type":"text","text":"Tragedy of the commons"},
+		{"id":"dbb0b191dd2f9f18","x":29,"y":1500,"width":400,"height":280,"type":"file","file":"Takings.md"}
+	],
+	"edges":[
+		{"id":"d9f415190bdb555e","fromNode":"04486d333c1c206c","fromSide":"right","toNode":"e11009f4c1c514c2","toSide":"left"},
+		{"id":"885b5b141a0e3ca9","fromNode":"e8d3d3f24ea42c54","fromSide":"right","toNode":"e11009f4c1c514c2","toSide":"left"},
+		{"id":"81858a728733a215","fromNode":"5670d6971835d1b5","fromSide":"left","toNode":"e11009f4c1c514c2","toSide":"right","toEnd":"none"},
+		{"id":"4ad3b0b770061e1c","fromNode":"9e4e23a43a4822e7","fromSide":"right","toNode":"a00fd1918dbaa832","toSide":"left"},
+		{"id":"44a266520f3adcc0","fromNode":"9e4e23a43a4822e7","fromSide":"right","toNode":"92482e4c09694f65","toSide":"left"},
+		{"id":"45f3b7a9f4d83890","fromNode":"a00fd1918dbaa832","fromSide":"right","toNode":"90ca55c93050b3ad","toSide":"left"},
+		{"id":"d3e6cc96b2af0566","fromNode":"92482e4c09694f65","fromSide":"right","toNode":"90ca55c93050b3ad","toSide":"left"},
+		{"id":"f61223895928b404","fromNode":"90ca55c93050b3ad","fromSide":"right","toNode":"9402469920be28f7","toSide":"left"},
+		{"id":"ba9dee66c25a17ba","fromNode":"90ca55c93050b3ad","fromSide":"right","toNode":"71e6915d0f36f31f","toSide":"left"},
+		{"id":"d497031a4ac25047","fromNode":"9402469920be28f7","fromSide":"right","toNode":"e715a050cb7a6bda","toSide":"left"}
+	]
+}

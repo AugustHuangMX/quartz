@@ -3,7 +3,7 @@
 ![[截屏2023-09-27 22.30.29.png]]
 
 
-We may consider it as a three level cases of [[The Market for Lemons]] ( two levels). In the table here, we have three types of insurance: *Low, Medium and High*. Each has the same proportion.
+We may consider it as a three level cases of [[The Market for Lemons]] ( two levels). In the table here, we have three types of buyers: those who want to buy *Low, Medium and High* type of insurance. Each has the same proportion.
 
 Since the proportion is the same, so we could easily calculate the *average* $WTA$ to be $\frac{24+12+6}{3}=14$ and the $WTP$ to be $15$, that is, $WTP>WTA$, so the trade could happen in this case!
 

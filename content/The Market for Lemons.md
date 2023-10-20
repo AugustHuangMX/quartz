@@ -15,7 +15,7 @@ If there is a used car market, and full of high quality cars and low quality car
 $$
 P_{avg}=(P_{lemon}+P_{peach})/2
 $$
-Where peach refers to *good cars*, lemon refers to *bad cars* $P$ here means the cost （成本）not the price 
+Where peach refers to *good cars*, lemon refers to *bad cars* $P$ here means the cost（成本）not the price 
 
 However, the seller knows their car is lemon or peach, so that only if
 
@@ -24,7 +24,9 @@ P_{lemon}<P_{avg}
 $$
 The deal could happen.
 
-So after repeated games, *the result would be the quality of cars would continuously decrease and the high quality will get out of the market. ( Because the seller don't want to make the deal)*
+So after repeated games, *the result would be the quality of cars would continuously decrease and the high quality will get out of the market. ( Because the seller don't want to make the deal)*  This procedure is called **market unraveling**
+
+
 
 
 ---
@@ -34,6 +36,9 @@ So after repeated games, *the result would be the quality of cars would continuo
 - Online shopping: Are the shoes a knockoff? （廉价仿制品）
 - Car insurance: Is the person buying insurance cautious or reckless?
 - Job Market: Is the employee you hire diligent or lazy?
+
+[[How to fix lemon market problem?]]
+
 
 
 

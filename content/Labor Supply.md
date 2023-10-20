@@ -1,10 +1,5 @@
----
-title: "Labor Supply"
-tags:
-- LaborEconomics
----
 
-#LaborEconomics
+## Definition of [[Labor Supply]] 
 
 The CPS (Current Population Survey) classifies all people aged 16 or older into three categories: The *employed*, the *unemployed* and the *out of labor force*. So it is clear that
 
@@ -17,11 +12,12 @@ $P$ means the whole population of the country. Notice that the Unemployment rate
 
 > Until now it is still similar to the topics in the [ECON2005 Macroeconomics MOC](ECON2005%20Macroeconomics%20MOC.md) 
 
-The potential problem of "Hidden Unemployed" may make the unemployment rate much higher than the official figure.
+The potential problem of "Hidden Unemployed" may make the unemployment rate much higher than the official figure. See [[Budget Constraint]
 
-[[Budget Constraint]]
 
 ---
+
+[[The Theory of Decision to Work]]
 
 
 
