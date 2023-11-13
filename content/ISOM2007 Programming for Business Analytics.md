@@ -1,3 +1,58 @@
+# 0 Introduction
+
+## Python Statement
+
+The python statement are the building blocks of Python programs, that either be as
+
+- Sequence: a number of statement that in a line
+- Condition: decision on what to do
+- Loop/Repetition: repeat a certain activities
+
+## Python Data Types
+
+- Numeric: integer and float
+- String: a line of text
+- Boolean: *True* or *False*
+
+>  Note that the Python could decides the data types as the codes go. It maybe annoying, so we can force Python to change the type.
+
+**Hint:** use `type()` to check the data types:
+
+![[Pasted image 20231113191846.png]]
+
+## Print
+
+The first simple function we learn, is `print()` 
+
+```Python
+print("The answer is", 6+7,"!")
+```
+
+The implied meaning of it is: 
+
+```Python 
+print(value1, value2, value3)
+```
+
+
+## Deal with Errors
+
+Make sure bad program inputs cannot crash the program.
+
+If we don't want the program to be stop when we face some error, we could use `try except` function, for example:
+
+```Python
+try:
+	print(x)
+except NameError:
+	print('oops.an NameError occured')
+x = 1
+print(x)
+```
+
+
+
+
 
 ## 8.25 Lecture 3
 
