@@ -51,6 +51,70 @@ print(x)
 ```
 
 
+## Variables
+
+We can store the result of an expression in a *variable*.
+
+### Naming of Variables:
+
+It is better to describe the purpose of the variable, `outcome` is always better than a simply `o` .
+
+Don't use reserved Python words, such as `print`, `while` and so on.
+
+```Python
+variable = expression # The form of statement
+```
+
+**Note:** the `=` sign is not for comparison, such as `if x = a` is not correct, `if x == a` is correct.
+
+
+## Arithmetic
+
+### Precedence
+
+The precedence of Python is similar to the algebra in math:
+
+Parenthesis > Exponent > Multiply/Divide > Add/Subtract
+
+### Mix the numeric types:
+
+If we mix an *integer* number and *floating* number together, we would get a *floating* number.
+
+```Python
+7 + 4.0 # 11.0
+```
+
+### Powers
+
+The ` ** `  are used in calculate an exponent
+
+`x**2` is exactly $x^2$ in Python.
+
+### Floor Division
+
+```Python
+7 / 4 # 1.75 (float)
+
+7 //4 # 1 (integer)
+
+7 % 4 # 3 (the remainder)
+```
+
+
+**Tricky Part:** when `n = 1729`, `-n // 10` would get the result of -173, because -173 is the largest integer that less than -172.9. The result is not -172.
+
+|Operator|Description|Example|
+|---|---|---|
+|()|Parenthesis for grouping|(2 + 3)|
+| ** |Exponential function|2 ** 3|
+| * |Multiplication|2 * 3.4|
+|/|Division|3.6/1.2|
+|//|Integer Division|5 // 2|
+|%|Reminder|5%2|
+|+|Addition|1.45 + 2.8|
+|-|Subtraction|5.8 - 2.579|
+
+
 
 
 
