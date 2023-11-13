@@ -180,6 +180,11 @@ The independence only hold if $X$ has no relationship (neither linear nor nonlin
 [[ECON3002 Lecture2]]
 
 
+## ECON 3002 Question List
+
+1. What is lagged value/ forward value?
+2. What is $\Delta ^k Y_t = \Delta ^{k-1} Y_t -  \Delta ^{k-1} Y_{t-1}$
+
 
 
 
