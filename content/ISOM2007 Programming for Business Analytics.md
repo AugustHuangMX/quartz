@@ -250,3 +250,25 @@ How to separate? Use `sep=`
 ```python
 print("Hello","World","Cheer",sep=" ")
 ```
+
+
+# Review Class
+
+## String
+
+```Python
+str1 = '12345'
+
+```
+
+
+```Python
+# Change the letter case of the string, i.e. lower to upper, upper to lower
+# Q1
+input_string = 
+```
+
+会把 dictionary 变成 dataframe，会变成什么？变了之后会继续怎么变？
+
+一定要非常注意缩进！
+

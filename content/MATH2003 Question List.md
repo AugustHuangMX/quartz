@@ -1,3 +1,5 @@
+
+After the review, you are anticipated to be able to answer these questions, for self-check:
 # Chapter 1 (Page 1-22)
 
 1. What is [[Cartesian Product]]?
