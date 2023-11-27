@@ -11,6 +11,8 @@ tags:
 
 [[Lecture Notes for ECON3002]]
 
+[[ECON3002 Question List]]
+
 ---
 
 
