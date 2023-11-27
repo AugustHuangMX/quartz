@@ -7,8 +7,9 @@ $$
 
 Other problems about the [[Endogeneity Issue]]:
 
--  [[Omitted Variable Bias]]
+- [[Omitted Variable Bias]]
 - [[Measurement Error]]
 - [[Ordinary Least Squares]] is inconsistent when there is [[Endogeneity Issue]]
+
 
 

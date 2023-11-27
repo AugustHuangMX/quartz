@@ -1,9 +1,3 @@
----
-title: "Ordinary Least Squares"
-tags:
-- Statistics
-- Econometrics
----
 
 # Tell It by Myself...
 
