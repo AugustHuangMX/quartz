@@ -45,13 +45,28 @@
 
 # TA 课
 
-1. 无偏（1-4）
-2. 效率（5-6）
-3. OVB Multicollinearity (Recap)
-4. 2022 年 T 3 **Iterative Resubstitution** 超级重要
-5. 内生性问题，超级重要
-6. Omitted Variable 定义？如何解决？OLS，
-7. [[Instrumental Variable]] 2 SLS（尤其重要，这两步分别在做什么？）
-8. 不太可能会在选择题出现 table 直接开始分析
-9. 关注 $J-test$
-10. 
+1. 关注每个**Recap Question**!
+2. 无偏（1-4）
+3. 效率（5-6）
+4. OVB Multicollinearity (Recap)
+5. 2022 年 T 3 **Iterative Resubstitution** 超级重要
+6. 内生性问题，超级重要
+7. Omitted Variable 定义？如何解决？OLS，
+8. [[Instrumental Variable]] 2 SLS（尤其重要，这两步分别在做什么？）
+9. 不太可能会在选择题出现 table 直接开始分析
+10. 关注 $J-test$
+11. Measurement Error 指在收集过程中就已经出错了，（sample 本身有问题）（在火车上统计春运买到票的）
+
+## 关于 Computation Question
+
+1. 会和 Assignment 比较像
+2. Confidence Interval 必考
+3. 如何判断是否显著？1. 查 t 表，括号里是 error，拿着自己的 sample size 去看自己是否
+4. Clustered Standard Error
+5. 稳健？
+
+# 关于考试本身
+1. 今年考试难度不会超过这个
+2. 分数会给的很松
+3. OLS Consistency / Esimation
+4. 
