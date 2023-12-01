@@ -9,3 +9,4 @@ We then use [[2-Stage Least Square]] (2SLS) to estimate this question.
 
 1. Regress endogeous regressor $X$ on $Z$, get $\hat X$
 2. Regress $Y$ on $\hat X$
+

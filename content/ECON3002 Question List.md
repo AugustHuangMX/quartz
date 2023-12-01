@@ -27,9 +27,12 @@
 5. What does LLN ([[Law of Large Numbers]]) mean?
 6. 
 
-# Chapter 3
+# Chapter 3 
 
 1. What does consistency in OLS mean?
+2. The OLS Estimator of the slope for the simple regression model is
+3. Why we can't use  $\sum(Y_i - \hat \beta_0 -\hat \beta_1 X_i)$ min to make the model more precise?
+4. 
 
 # Chapter 4
 
@@ -39,3 +42,16 @@
 
 
 
+
+# TA 课
+
+1. 无偏（1-4）
+2. 效率（5-6）
+3. OVB Multicollinearity (Recap)
+4. 2022 年 T 3 **Iterative Resubstitution** 超级重要
+5. 内生性问题，超级重要
+6. Omitted Variable 定义？如何解决？OLS，
+7. [[Instrumental Variable]] 2 SLS（尤其重要，这两步分别在做什么？）
+8. 不太可能会在选择题出现 table 直接开始分析
+9. 关注 $J-test$
+10. 
