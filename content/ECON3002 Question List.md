@@ -38,6 +38,15 @@
 
 1. What does [[VIF]] maen?
 
+
+# Chapter 5 Time Series Analysis
+
+1. What is lagged value?
+2. What is forward value?
+3. Why we use logarithms to analysis the problem?
+4. The standard deviation of the logarithm of the series is approximately ___ .
+5. 
+
 # Chapter 6 Instrumental Variables Regression
 
 
@@ -69,4 +78,17 @@
 1. 今年考试难度不会超过这个
 2. 分数会给的很松
 3. OLS Consistency / Esimation
-4. 
+
+
+
+
+
+# Answer 
+
+# Chapter 5
+
+1. $Y_{t-j}$ is called the jth lagged value
+2. $Y_{t+j}$ is called the jth forward value
+3. Logarithm of the series grows approximately linearly. Another reason is that the standard deviation of many economic time series is approximately proportional to its level; that is, the standard deviation is well expressed as a percentage of the level of the series.
+4. Constant
+5. 

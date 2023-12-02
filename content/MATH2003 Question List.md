@@ -34,4 +34,4 @@ After the review, you are anticipated to be able to answer these questions, for 
 
 - Chain rule: 
 - Cara thm
-- 
+- 洛必达
