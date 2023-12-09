@@ -152,7 +152,62 @@ Victim precaution imposes no externality on injurer。也就是说，受害者�
 - 施害者：$x = 0$
 - 受害者：$x = x^{ * }$
 
+在 No Liability 的情况下，施害者的活动水平是 inefficiently high 的，因为他不需要考虑任何后果。
 
+结论：A rule of no liability leads to an inefficiently high level of injurer activity, but the efficient level of victim activity
+
+### Strict Liability Rule
+
+一句话概括：Perfect Compensation: $D = A$
+
+这是另一种极端：施害者承担所有意外造成的成本。所以施害者会将他的行为带来的外部性内在化，他会采取高效的方式进行活动。
+
+反之，受害者不会采取任何预防水平。
+
+结果：
+
+- 施害者：$x = x^{ * }$
+- 受害者：$x = 0$
+
+结论：A rule of strict liability leads to the efficiently level of injurer activity, but an inefficiently high level of victim activity
+
+	Strict Liability 和 No Liability 互为镜像
+
+“补偿的悖论”（paradox of compensation）：是指在设定单一责任规则时存在的问题，即一条规则同时设置了多重激励，但不可能完美地平衡所有的激励。这可能导致一些效率上的损失，因为规则可能会鼓励一方的高效率行为，同时导致另一方的低效率行为。然而，侵权法中存在一些方法或“诀窍”来解决这一悖论，以创造更均衡的激励... 接着往下看：
+
+### Negligence Rule
+
+injurer is liable if he breached the duty of due care
+
+我们假设法院设定了一个 Legal Standard of Care， $x_n$ 施害者需要在什么情况下承担责任呢？
+
+如果他采取的预防水平低于这个 Standard，那么他承担所有的赔偿，也就是 $D=A$
+
+如果他已经达到了，那么他不需要承担任何责任。
+
+所以对于施害者来说，他的 private cost 就变成了：
+
+$wx + p(x)A,if\ x< x^n$
+
+$wx,if\ x\geq x^n$
+
+如果法院能够完美的设立一个 Standard，也就是 $x_n = x^{ * }$ 那么 Efficiency 就可以达到。
+
+注意到，如果说我们能够设立一个完美的 Standard，那么不仅施害者会在 $x_n$ 预防，受害者也会（因为他知道如果意外真的发生，只会由他来承担责任）
+
+以上提到的都是 Simple Negligence Rule，意思是，我们在考虑责任的时候，只关注施害者的行为。
+
+但是，如果存在：
+
+1. **单纯过失（Simple Negligence）**：在这种情况下，责任的判断只考虑行为人（injurer）的行为。如果行为人未能采取适当的照顾标准，他们将对任何造成的伤害负责。
+
+2. **共同过失（Contributory Negligence）**：如果受害者也存在过失，行为人可以使用共同过失作为辩护。在这种规则下，如果受害者也有过失，行为人可能不必承担任何责任。
+
+3. **比较过失（Comparative Negligence）**：在比较过失规则下，如果双方都有过失，责任将按各自的过失程度分摊。这促进了更加公平的损害赔偿，因为受害者的赔偿会根据他们自己的过失程度减少。
+
+4. **严格责任与共同过失抗辩（Strict Liability with a Defense of Contributory Negligence）**：即使行为人没有过失，他们也可能因造成的伤害而负责，除非受害者有过失。如果受害者有过失，行为人可能不需承担责任。
+
+这些规则，如果结合了有效的照顾标准，旨在鼓励双方都采取适当的预防措施。在经济学上，有效的照顾标准意味着预防措施的边际成本等于边际收益。当这些规则正确实施时，它们会促进双方都采取有效的预防措施，从而降低事故发生的可能性，减少社会成本。这也意味着责任规则需要细致设计，以确保它们提供正确的激励，并且不会导致过度或不足的预防措施。
 
 ### Accidents between businesses and their own customers: No Liability
 
