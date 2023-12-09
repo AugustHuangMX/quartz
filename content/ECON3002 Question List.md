@@ -91,4 +91,16 @@
 2. $Y_{t+j}$ is called the jth forward value
 3. Logarithm of the series grows approximately linearly. Another reason is that the standard deviation of many economic time series is approximately proportional to its level; that is, the standard deviation is well expressed as a percentage of the level of the series.
 4. Constant
-5. 
+
+
+
+OLS Estimation of general time series
+P 16 页 ADL 这个 model ADL 有啥用
+P 17 页 optimization RSS 是啥（估计误差平方和？
+P 36 oracle forecast 是啥该怎么用的
+P 39 那两个 MSFE 的方法 RSS 是什么
+P 42 dynamic causal effect
+P 46 这个 dynamic effect 和 immediate effect 分不清该怎么解释 coefficient
+P 50 这个 variance 怎么来的啊前面估计了贝塔1
+P 51 Naive estimator
+P 52 Newey-west robust standard error 完全看不懂在干嘛

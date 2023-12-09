@@ -204,8 +204,6 @@ It would print `-2`
 
 ---
 
-Today's class:
-
 ### Strings
 
 See some explanation about Strings in [[Sequence Functions]]
@@ -250,6 +248,35 @@ How to separate? Use `sep=`
 ```python
 print("Hello","World","Cheer",sep=" ")
 ```
+
+
+## Accessing Elements
+
+How about the two index values?
+
+`medalcount = counts[3][1]`
+
+![[Pasted image 20231205105544.png|300]]
+
+## Dictionaries in Python
+
+How to create a dictionary? Use `contacts = {"fred":12345,"Mary":32323}`
+
+### Practical operations:
+
+`len(d)` would give you the number of key: value pairs.
+
+`d[key1] = value1` if `key1` is already a key in the dictionary, changes the value that originally belongs to `key1` to be `value1`, if no `key1` exists, just add the pair.
+
+The key difference is that you can't access the dictionary values like what you do in the list. You can only use *key* to access them.
+
+```Python
+# prints 7235591
+print("Fred's number is",
+	 contacts["Fred"])
+```
+
+Use `xxx["yy"]`  to add or modify items.
 
 
 # Review Class
