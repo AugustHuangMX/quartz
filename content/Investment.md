@@ -1,11 +1,3 @@
----
-title: "Investment"
-tags:
-- Econ/Macro
----
-
-#fleeting #Econ/Macro 
-
 3 major reasons to learn **Investment**
 1.  Investment spending is very volatile and responsible for much of the fluctuations of GDP
 2.  Investment spending is the link through which interest rates, monetary policies and fiscal policies affect the economy. E.g ( Taxes, [Money Supply](Money%20Supply) …)
