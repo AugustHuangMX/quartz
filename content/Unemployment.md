@@ -75,7 +75,7 @@ When economy is bad, boss will overpay you to keep you here to get the return of
 
 ## Efficiency Wage Theorem
 
-Work effort depends on wage rates, and the cost of monitoring workers is very high. ([[principal-agent model]] problem) So that the firm would overpay the workers (above the equilibrium case in the market). We define the lazy workers as shirking workers.
+Work effort depends on wage rates, and the cost of monitoring workers is very high. ([[Principal-Agent Model]] problem) So that the firm would overpay the workers (above the equilibrium case in the market). We define the lazy workers as shirking workers.
 
 ![[IMG_3921E67FF677-1.jpeg|500]]
 

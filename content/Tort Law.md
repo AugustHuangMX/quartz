@@ -365,6 +365,7 @@ if $e>0$ that means $x > x^ *$ v.v.
 - 但严格责任制度可能导致更多的诉讼，因为行为人即使没有过失也可能被迫负责。
 
 
+
 ### Under strict liability:
 
 Random errors in setting damages have no effect: $A + \epsilon$ 

@@ -4,5 +4,5 @@ It is a philosophy questions, while we only focus on *Efficiency* since we study
 
 And
 
-Rules that allow ownership without possession havethe advantage of avoiding preemptive investment and the disadvantage of being costly to administer.
+Rules that allow ownership without possession have the advantage of avoiding preemptive investment and the disadvantage of being costly to administer.
 
