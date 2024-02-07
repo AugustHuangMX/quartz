@@ -4,10 +4,7 @@
 
 如果把 problem set 和 PPT 好好看一两遍，自己能够总结出 PPT 里的 conclusion 性质的表格，考试的时候不要失误，相信也能取得好成绩。
 
-
 ---
-
-
 
 To analyze the laws as an "Economist".
 
