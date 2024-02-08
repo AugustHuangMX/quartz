@@ -22,17 +22,5 @@ Different developing countries they face different kinds of internal reasons (wh
 
 The above are the content taught in [[ECON2005 Macroeconomics MOC]], Below I will talk more about the content in the course [[International Trade]] in Bristol.
 
-To use the models learned in the course to analyze the *real world issue*.
-
-The trade is becoming more globalization nowadays
-
-Recall the previous studies:
-
-$Cost = MC\times q+F$ (F is the fixed cost)
-
-So,
-
-$AC=MC+\frac{F}{q}$ 
-
-When $q$ increases, the *Average Cost* clearly goes down.
-
+- [[Ricardian Trade Theory]]
+- 
