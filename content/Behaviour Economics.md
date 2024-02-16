@@ -1,3 +1,23 @@
+
+# Notes
+
+## Seminar 2
+
+How to measure *Belief*?
+
+[[Sure-Thing Principle]]
+
+[[Hot-Hand Fallacy]]
+
+[[Gambler's Fallacy]]
+
+
+
+
+
+
+
+
 # Lecture 1 Choice Under Risk
 
 How to choose under Uncertainty

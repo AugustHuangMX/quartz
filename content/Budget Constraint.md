@@ -1,9 +1,3 @@
----
-title: "Budget Constraint"
----
-
-#macro #LaborEconomics 
-
 $$
 C=wh+V
 $$
