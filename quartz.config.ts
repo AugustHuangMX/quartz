@@ -13,8 +13,8 @@ const config: QuartzConfig = {
     ignorePatterns: ["private", "templates"],
     theme: {
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Times New Roman",
+        header: "TeX Gyre Pagella",
+        body: "TeX Gyre Pagella",
         code: "IBM Plex Mono",
       },
       colors: {

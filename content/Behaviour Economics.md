@@ -14,6 +14,16 @@ How to measure *Belief*?
 
 
 
+---
+
+[[Behaviour Econ -> Problem Set 1]]
+
+[[Behaviour Econ -> Problem Set 1]]
+
+[[Behaviour Econ -> Problem Set 3]]
+
+
+
 
 
 
@@ -40,3 +50,9 @@ For example, from the menu $\{ L_1,L_2\}$, you choose $L_1$, that means you pref
 
 - Expected Utility
 - Prospect Utility
+
+# Lecture 3 Other-regarding preferences
+
+People's opinions about our actions. And we *follow and expect* people follow the [[Social Norm]]
+
+

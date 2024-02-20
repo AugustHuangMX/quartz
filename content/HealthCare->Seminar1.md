@@ -8,5 +8,29 @@ Mainly focus on the public insurance aspect. But what pros and cons of public ow
 
 | Con | Pro |
 | ---- | ---- |
-| Inefficiency | Social Incentives |
-| And the possible competition between firms (hospitals) |  |
+| Inefficiency<br> | Social Incentives |
+| And the possible competition between firms (hospitals) | Monopsony buyer |
+
+# Why intervene in [[HealthCare]] ?
+
+Answer: 
+
+## Efficiency
+
+- Adverse selection
+- [[Externality]] -> Productivity
+- [[Moral Hazard]] 
+
+## Fairness
+
+
+---
+
+What risks arise if government provides universal health insurance? (like NHS)
+
+
+Become more elastic
+
+Doctors are tend to recommend the expensive drugs even if they don't need to.
+
+
