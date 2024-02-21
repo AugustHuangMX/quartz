@@ -1,12 +1,3 @@
----
-title: ECON3002 Econometrics MOC
-tags:
-  - Econ/Econometrics
----
-
-
-#Econometrics 
-
 [[What is Econometrics]]
 
 [[Lecture Notes for ECON3002]]

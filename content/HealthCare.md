@@ -35,7 +35,15 @@ The empirical approach concludes a lottery: 90,000 people signed up for 10,000 s
 
 **Question**: why is it different from difference-in-difference (DID)?
 
-With Randomized control trial (RCT), we don't need such strong assumptions. The significance difference in DiD is that we have to *assume the trend in the treatment and control group would have been the same in absence of treatment*.
+With Randomized control trial (RCT), we don't need such strong assumptions. The significance difference in DiD is that we have to *assume the trend in the treatment and control group would have been the same in absence of treatment* => counterfactual estimate.
+
+### Limits
+
+[[Spillover]]: might control group behave differently than they would have otherwise?
+
+Maybe [[Causal Effect]] of insurance on spending is different for these group, a dn we don't know about them from this setting. And is also **true** for other empirical design too. What about [[Difference in Difference]]?
+
+
 
 *It simulates a randomized control trial*. 
 
@@ -45,11 +53,27 @@ The **idea** is compare [[HealthCare]] utilisation of treatment group against th
 
 ## Analysis 1: Intention to treat 
 
-$y = \beta_{0}+\beta_{i}Lottery +X|beta_{2}+V\beta_{3}+\epsilon$
+$y = \beta_{0}+\beta_{i}Lottery +X \beta_{2}+V\beta_{3}+\epsilon$
 
 $Lottery = 1$ if won the lottery, 0 otherwise.
 
-We **Only** focus on $\beta_1$
+We **Only** focus on $\beta_1$, this can break the independence between $u_i$ and $Insurance_i$
+
+![[截屏2024-02-21 09.47.37.png|500]]
+
+In this example, the **ITT effect** is $10,000: difference in average spending between those who won the lottery and those who did not.
+
+What about the local average treatment effect? (LATE)
+
+|  | Average Spend | $Pr(Insured)$ |
+| ---- | ---- | ---- |
+| Lottery Winners | $30,000 | 2/3 |
+| Lottery Losers | $20,000 | 0 |
+| Difference | $10,000 | 2/3 |
+
+So the $LATE = 10,000/(2/3)=15,000$
+
+
 
 ## Analysis 2: [[Two Stage Least Squares]]
 

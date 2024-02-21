@@ -19,11 +19,20 @@ Hi，我是黄指导，2021 届澳门大学的经济系学生，感谢你点击�
 
 ## 一些笔记 MOC (Map of content/仅大三) ：
 
-[[Economics MOC]]
 
-[Programming Science MOC](Programming%20Science%20MOC.md)
+-  [[Economics MOC]]
+- [Programming Science MOC](Programming%20Science%20MOC.md)
+- [[Other Courses]]
+- [[ECON4006 Labour Economics]]
+- [[ECON4008 Law and Economics]]
+- [[ECON3002 Econometrics MOC]]
 
-[[Other Courses]]
+## Notes in Bristol
+
+- [[Applied Microeconomics]]
+- [[Behaviour Economics]]
+- [[International Trade]]
+
 
 ## 参加的一些有意思的讲座：
 
@@ -38,6 +47,9 @@ Hi，我是黄指导，2021 届澳门大学的经济系学生，感谢你点击�
 
 
 最后，祝你享受阅读！
+
+---
+
 
 2023.4.14 更新：现在可以在主页上直接看到我全局关系图谱了！试着拖拽、选择、点击吧！虽然图无法按照 obsidian 那样聚拢成一个美丽的圆，但是已经足矣！再次感谢大家的支持
 
