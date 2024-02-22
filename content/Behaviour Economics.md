@@ -16,13 +16,11 @@ How to measure *Belief*?
 
 ---
 
-[[Behaviour Econ -> Problem Set 1]]
 
-[[Behaviour Econ -> Problem Set 1]]
-
-[[Behaviour Econ -> Problem Set 3]]
-
-
+- [[Behaviour Econ -> Problem Set 1]]
+- [[Behaviour Econ -> Problem Set 3]]
+- [[Behaviour Econ -> Problem Set 4]]
+- 
 
 
 

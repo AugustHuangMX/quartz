@@ -73,10 +73,15 @@ What about the local average treatment effect? (LATE)
 
 So the $LATE = 10,000/(2/3)=15,000$
 
-
+The difference between LATE and ATE is that ATE includes the person who did not apply to the lottery even he won, but LATE is the effect of insurance among those **only** induced to getting insurance by lottery
 
 ## Analysis 2: [[Two Stage Least Squares]]
 
+Estimate the *first stage equation*:
+
+$INSURED = \pi_{0}+\pi_{i}Lottery +X \pi_{2}+V\pi_{3}+v$
+
+And rescale by $\pi_1$: causal effect of winning lottery on getting insurance.
 
 ## Main Findings:
 
@@ -85,5 +90,10 @@ Winning lottery => More likely to be insured, higher [[HealthCare]]  utilization
 
 ## Paper 2: Olivella and and Vera-Hernandez (2013)
 
+Notes: main empirical challenge in testing for [[Adverse Selection]].
 
+If would have still spend more than those without insurance, we could say that there exists [[Adverse Selection]].
 
+Authors identify 3 possible risks:
+
+1. 

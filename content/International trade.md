@@ -24,4 +24,5 @@ The above are the content taught in [[ECON2005 Macroeconomics MOC]], Below I wil
 
 - [[Ricardian Trade Theory]]
 - [[Heckscher-Ohlin Model]]
+- [[Specific-Factors Model]]
 - 
