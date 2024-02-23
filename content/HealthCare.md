@@ -96,4 +96,17 @@ If would have still spend more than those without insurance, we could say that t
 
 Authors identify 3 possible risks:
 
-1. 
+### Discussion
+
+#### The Finkelstein et al paper:
+
+Providing health insurance to lower-income people without insurance in Oregon increases utilization of health services.
+
+#### What do we learn about likely [[Moral Hazard]] in the NHS?
+
+| External Validity | Internal Validity |
+| ---- | ---- |
+| What are estimates relevant for -> LATE -> Question if [[Moral Hazard]] is greater or less for ones | Randomized control trial -> Internally valid -> needs true randomization -> no spillover -> DiD |
+| Short run v.s. Long run |   |
+| Different institution between UK and US ? => **Profit Incentives** (Jhonson Paper (read it if needed)) |  |
+|  |  |
