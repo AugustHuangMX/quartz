@@ -107,6 +107,21 @@ Providing health insurance to lower-income people without insurance in Oregon in
 | External Validity | Internal Validity |
 | ---- | ---- |
 | What are estimates relevant for -> LATE -> Question if [[Moral Hazard]] is greater or less for ones | Randomized control trial -> Internally valid -> needs true randomization -> no spillover -> DiD |
-| Short run v.s. Long run |   |
+| Short run v.s. Long run |  |
 | Different institution between UK and US ? => **Profit Incentives** (Jhonson Paper (read it if needed)) |  |
-|  |  |
+
+#### Testing for AS in the US?
+
+1. Different composition of groups: whether the employer who buys the PHI have fundamentally higher risk than the people who don't.
+2. Different coverage if have employer provided 
+
+#### What are the key assumptions 
+
+1. No difference in health between those with and without insurance from work
+2. No difference in generosity of employer-provided and market purchased insurance 
+3. No difference in preventive care if employer-provided insurance
+
+
+
+[[CourseWork 1]]
+

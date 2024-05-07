@@ -11,6 +11,12 @@ How to measure *Belief*?
 
 [[Gambler's Fallacy]]
 
+[[BEHAVIOURAL WELFARE ANALYSIS AND SUBJECTIVE MEASURES OF WELL-BEING]]
+
+[[Behavioural Welfare Analysis and Subjective Measures of Well-Being]]
+
+[[Neuroeconomics]]
+
 
 
 
@@ -20,6 +26,7 @@ How to measure *Belief*?
 - [[Behaviour Econ -> Problem Set 1]]
 - [[Behaviour Econ -> Problem Set 3]]
 - [[Behaviour Econ -> Problem Set 4]]
+- [[Behavior Econ -> Formative Assessment]]
 - 
 
 
